@@ -1,0 +1,9 @@
+ISSUE_NORMALS = "NORMALS"
+ISSUE_GEOMETRY = "GEOMETRY"
+ISSUE_MIXED = "MIXED"
+
+ISSUE_LABELS = {
+    ISSUE_NORMALS: "Likely Custom Normals",
+    ISSUE_GEOMETRY: "Likely Geometry",
+    ISSUE_MIXED: "Mixed",
+}
